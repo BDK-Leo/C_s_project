@@ -1,2 +1,2 @@
-#define _CRT_SECURE_NO_WARNINGS 1
-//ɨ��һ�棨������
+﻿#define _CRT_SECURE_NO_WARNINGS 1
+//扫雷一版(初级)
